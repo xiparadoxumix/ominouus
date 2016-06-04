@@ -1,0 +1,22 @@
+{
+	"name": "Ominous Shadow Bot",
+	"version": "1.0.0",
+	"description": "A Discord bot that does everything",
+	"author": "ParadoxuM",
+	"main": "ominous.js",
+	"engines": {
+		"node": ">=6.0.0"
+	},
+	
+	"license": "MIT",
+	"dependencies": {
+		"discord.js": "hydrabolt/discord.js#indev",
+		"request": "*",
+		"xml2js": "*",
+		"cleverbot-node": "*",
+		"osu-api": "*",
+		"chalk": "*",
+		"entities": ">=1.1.1",
+		"csslint": "*"
+	}
+}
